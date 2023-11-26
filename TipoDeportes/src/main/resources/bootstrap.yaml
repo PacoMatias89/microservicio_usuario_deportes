@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: sport-server
+  cloud:
+    config:
+      enable: true
+      uri: http://localhost:8081
+
+
+  
+
+
+
